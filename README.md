@@ -12,7 +12,7 @@ In order to run the files in a local machine the path to the dataset files (alre
 
 **Datasets**\
 The links to dataset for the tasks are:\
-Dataset used in task1 : https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb\
-Dataset used in task2 : https://www.kaggle.com/datasets/kartik2112/fraud-detection\
-Dataset used in task3 : https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction\
+Dataset used in task1 : https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb \
+Dataset used in task2 : https://www.kaggle.com/datasets/kartik2112/fraud-detection \
+Dataset used in task3 : https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction \
 Dataset used in task4 : https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
